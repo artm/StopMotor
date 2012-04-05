@@ -1,0 +1,2 @@
+class CncFilter
+end
